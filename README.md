@@ -17,7 +17,7 @@ Please see [GETTING_STARTED.md](https://github.com/open-mmlab/mmdetection/blob/v
 1. Clone the this repository.
 
     ```shell
-    git clone https://github.com/sanghun3819/LQM.git
+    git clone https://github.com/POSTECH-IMLAB/LQM.git
     cd LQM
     ```
 
